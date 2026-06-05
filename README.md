@@ -41,7 +41,7 @@
 
 ```bash
 # Клонирование репозитория
-git clone https://github.com/your-username/crypto-tech-analyzer.git
+https://github.com/ura-ch/hummingbot-analytics.git
 cd crypto-tech-analyzer
 
 # Установка зависимостей
